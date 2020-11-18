@@ -5,3 +5,5 @@ I'm trying to create a Firefox extension that converts recognized times (like 3:
 
 <h1>References</h1>
 Firefox's "Your First Extension" tutorial found [here](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension)
+
+Learned how to create a Chrome extension on pythonspot, link [here](https://pythonspot.com/create-a-chrome-plugin-with-python/)
