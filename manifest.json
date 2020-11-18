@@ -1,0 +1,14 @@
+{
+
+  "manifest_version": 2,
+  "name": "Tell Me When",
+  "version": "1.0",
+
+  "description": "This extension will convert recognized times (like 3:00 PM GMT) to your local timezone!",
+
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+
+
+}
