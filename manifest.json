@@ -6,8 +6,13 @@
 
   "description": "This extension will convert recognized times (like 3:00 PM GMT) to your local timezone!",
 
+  # TODO: you're going to create a directory called icons
+  # AND write a script that pulls the user's local timezone
+  # from their IP address and puts it on the icon.
+
   "icons": {
-    "48": "icons/border-48.png"
+    "48": "icons/border-48.png",
+    "96": "icons/border-96.png"
   },
 
 
