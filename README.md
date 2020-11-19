@@ -51,3 +51,5 @@ Welcome to the diary of my first solo project.
 **2020-11-19:** See how to get timezone offset in JavaScript [here](https://www.w3schools.com/jsref/jsref_gettimezoneoffset.asp). W3Schools says it's `var.getTimezoneOffset()` but Atom autocompletes the part after `var.` to `jsref_gettimezoneoffset`... YIKES. I'm going with W3S for now.
 
 **2020-11-19:** Grrrr. I'm all over the place. Different ways to get user's timezone in Python found [here](https://stackoverflow.com/questions/13473175/how-to-get-users-local-timezone-other-than-server-timezoneutc-in-python).
+
+**2020-11-19:** I found an AMAZING book! https://eloquentjavascript.net/
