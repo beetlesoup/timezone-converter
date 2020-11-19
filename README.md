@@ -12,7 +12,8 @@ Blank for now
 
 Welcome to the diary of my first solo project.
 
-**Welcome readers:** casual spectators, prospective employers, habitual critics <br>
+**Welcome readers:** casual spectators, prospective employers, habitual critics
+
 **Unwelcome readers:** people who refuse to post about an event on LinkedIn the way I need them to
 
 
@@ -44,3 +45,7 @@ Welcome to the diary of my first solo project.
 **2020-11-18:** Almost couldn't sleep thinking about how I got the answer: delete the local directory and just GIT PULL! It should work, right? I didn't already try that? I will NOT get my laptop out and check. Is it bad that I'm taking the easy way out, or is that what GitHub is FOR?
 
 **2020-11-19:** Git pull worked! And I won't be late for work.
+
+**2020-11-19:** Am I really going to rely on the code version of Google Translate to work with TIMEZONES? Arguably the worst and most difficult type of data to work with across the board? (In my experience, at least.) I should at least TRY to do this in JavaScript first.
+
+**2020-11-19:** See how to get timezone offset in JavaScript [here](https://www.w3schools.com/jsref/jsref_gettimezoneoffset.asp). W3Schools says it's `var.getTimezoneOffset()` but Atom autocompletes the part after `var.` to `jsref_gettimezoneoffset`... YIKES. I'm going with W3S for now.
