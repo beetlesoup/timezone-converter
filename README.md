@@ -6,19 +6,15 @@ I'm trying to create a Firefox extension that converts recognized times on the w
 ## Prerequisites & Installation
 Blank for now
 
-## Long Story
+
+- - - - -
+## Adventure Log
 
 Welcome to the diary of my first solo project.
 
 **Welcome readers:** casual spectators, prospective employers, habitual critics <br>
 **Unwelcome readers:** people who refuse to post about an event on LinkedIn the way I need them to
 
-### Motivation
-Since I changed my default doomscrolling app to LinkedIn, I've been seeing sign-up links to cool events a LOT. How do I evaulate whether a conference or workshop is something I want to attend? I want to look at two things:
-* Content
-* Time
-
-Now the problem is that I only want to explore the content if the event is happening at a time that's good for me. But I'm only going to translate the timezone if I know I'm interested in the event. But I won't know I'm interested in the event unless I know that it's at a good time. But I won't- \*cough\* \*cough\* \*sputter\*
 
 ### Journey (& References)
 
@@ -32,11 +28,19 @@ Now the problem is that I only want to explore the content if the event is happe
 
 **2020-11-18:** Firefox's "Your First Extension" tutorial found [here](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension)
 
+**2020-11-18:** I kept changing stuff and resetting git commits! That was fun, and my git log is so cleeean!
+
 **2020-11-18:** Time for that pesky "deal with it later." How am I going to write the code in Python? ... There's a complicated way that seems dead, or I could use a compiler(?) to translate my Python to Javascript..... uh, like talking to someone through Google Translate? No, thanks. Let's just try doing this on Chrome.
 
 **2020-11-18:** Documenting first, I added this reference to the README:
 > Learned how to create a Chrome extension on pythonspot, link [here](https://pythonspot.com/create-a-chrome-plugin-with-python/)
 
-**2020-11-18:** That uses a compiler to translate to JavaScript! Looks like Javascript is for web stuff and Python is for way cooler stuff. Duh. Should've known that. Alright, fine, I'll just do that on Firefox.
+**2020-11-18:** That uses a compiler to translate to JavaScript! Looks like Javascript is for web stuff and Python is a way cooler process for under the hood stuff. Duh. Should've known that. Alright, fine, I'll just do that on Firefox.
 
 (I prefer Firefox because Chrome is slow. Maybe I have too many extensions.)
+
+**2020-11-18:** Tried to rewrite a comment using git REBASE [reference link [here](https://docs.github.com/en/free-pro-team@latest/github/committing-changes-to-your-project/changing-a-commit-message)]- OOPS. Although I did this successfully before (in a Udacity course, not in this project), it looks like I did something wrong this time. I really want to spend the time to fix it, but I need to get to sleep for work tomorrow. I'm a responsible adult.
+
+**2020-11-18:** Almost couldn't sleep thinking about how I got the answer: delete the local directory and just GIT PULL! It should work, right? I didn't already try that? I will NOT get my laptop out and check. Is it bad that I'm taking the easy way out, or is that what GitHub is FOR?
+
+**2020-11-19:** Git pull worked! And I won't be late for work.
